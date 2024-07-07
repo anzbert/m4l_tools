@@ -1,6 +1,6 @@
 # M4L Tools
 
-A collection of simple but useful Max for Live tools.
+A collection of simple but useful tools for Ableton's Max for Live.
 
 ## Pitch to PC
 
